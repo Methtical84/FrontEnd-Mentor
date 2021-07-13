@@ -1,0 +1,92 @@
+
+body{
+  background-color: #0A0C1B;
+}
+
+.container{
+  margin-top: 200px;
+  background-color: #1c1938;
+}
+
+.ladies{
+  background-color: #610b7d;
+  padding: 0;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius:30px;
+
+}
+
+.ladiespic{
+    opacity: 0.4;
+    margin-right: 10px;
+    width:100%;
+    height: 100%;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius:30px;
+}
+
+.radius{
+border-top-left-radius: 30px;
+border-bottom-left-radius: 30px;
+border-top-right-radius: 30px;
+border-bottom-right-radius:30px;
+}
+
+.main-text{
+  color: #fff;
+  padding-top: 50px;
+  padding-left: 75px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+}
+
+.pledge{
+  color: #687487;
+  padding-top: 20px;
+  padding-left: 75px;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+  line-height: 2;
+
+}
+
+.purptext{
+  color: #A360D1;
+
+}
+
+.stats1{
+  color: #fff;
+  padding-left: 65px;
+  margin-top: 40px;
+  display: inline-block;
+
+}
+
+.stats2{
+  color: #fff;
+  margin-left: 65px;
+  display: inline-block;
+
+}
+
+.stats3{
+  color: #fff;
+margin-left: 65px;
+  display: inline-block;
+
+}
+
+.large-font{
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.small-font{
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+  line-height: 2;
+  color: #687487;
+}
