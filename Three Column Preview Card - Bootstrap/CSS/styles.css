@@ -1,0 +1,78 @@
+
+body{
+  margin-top: 100px;
+}
+
+/* Fonts */
+
+h1{
+  color: #fff;
+  font-family: "Big Shoulders Display", sans-serif;
+  margin-left: 50px;
+}
+
+h5{
+  color:  hsla(0, 0%, 100%, 0.75);
+  margin: 30px 0 0 50px;
+  font-size: 20px;
+  line-height: 2;
+
+}
+
+/* Generic card features */
+
+.col-set{
+  padding: 0;
+}
+.card-layout{
+  border: none;
+  border-radius: 0;
+}
+
+.car-img{
+  width: 20%;
+  height: 20%;
+  margin: 45px 0 20px 65px;
+  border-style: none;
+}
+
+
+/* Sedan  */
+.sedan-bck{
+  background-color: hsl(31, 77%, 52%);
+}
+
+
+.button-sedan{
+  margin: 100px 0 50px 50px;
+  width: 200px;
+  color: hsl(31, 77%, 52%);
+  border-radius: 500px;
+}
+
+/* SUV */
+
+.SUV-bck{
+  background-color: hsl(184, 100%, 22%);
+}
+
+.button-SUV{
+  margin: 100px 0 50px 50px;
+  width: 200px;
+  color:  hsl(184, 100%, 22%);
+  border-radius: 500px;
+}
+
+/* Luxury */
+
+.lux-bck{
+  background-color: hsl(179, 100%, 13%);
+
+}
+
+.button-lux{
+  margin: 100px 0 50px 50px;
+  width: 200px;
+  color:  hsl(179, 100%, 13%);
+  border-radius: 500px;
+}
